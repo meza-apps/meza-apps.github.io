@@ -1,3 +1,5 @@
-:HL["/_next/static/chunks/0fa7ed1a3bb02896.css","style"]
+:HL["/_next/static/chunks/26n5socafbit9.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,700&family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap","style"]
-0:{"buildId":"NKAHHhNkPmzjZGHwGWguR","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"features","paramType":null,"paramKey":"features","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"features","h":64,"c":"$Q2"}]]
+0:{"b":"GA4CvLxpP7eXC8WL58FlU","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

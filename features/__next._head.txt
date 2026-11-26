@@ -1,7 +1,0 @@
-1:"$Sreact.fragment"
-2:I[98735,["/_next/static/chunks/a23703b41b0c2e75.js","/_next/static/chunks/87e65551c4eb5258.js"],"ViewportBoundary"]
-4:I[98735,["/_next/static/chunks/a23703b41b0c2e75.js","/_next/static/chunks/87e65551c4eb5258.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"NKAHHhNkPmzjZGHwGWguR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#C0492B"}]]
-6:[["$","title","0",{"children":"What's inside · Mezapos"}],["$","meta","1",{"name":"description","content":"Table-anchored restaurant POS for Africa. QR ordering, kitchen display, group pay, walkout proof. Built for Nairobi kitchens — kalatas-ready, eTIMS-compliant."}],["$","meta","2",{"name":"author","content":"Mezapos"}],["$","meta","3",{"name":"keywords","content":"restaurant POS,QR ordering,kitchen display,KDS,table ordering,group bill split,ghost kitchen software,Nairobi POS,mpesa restaurant,eTIMS POS,Mezapos"}],["$","meta","4",{"name":"robots","content":"index, follow"}]]
